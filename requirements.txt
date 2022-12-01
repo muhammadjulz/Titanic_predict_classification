@@ -3,5 +3,5 @@ numpy
 joblib
 scikit-learn==1.1.1
 Flask
-tensorflow-intel
+tensorflow-cpu
 gunicorn
